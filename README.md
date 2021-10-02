@@ -1,0 +1,2 @@
+# CPPSOCKETCLASS-CPP-SOCKET-
+为了便利C++SOCKET编程而写的一个类
